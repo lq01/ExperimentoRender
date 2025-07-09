@@ -1,7 +1,7 @@
 import psycopg2
 
 conexao = psycopg2.connect(
-            dbname="DBJulhoExperimento",
+            dbname="experimentodb",
             user="experimentodb_user",
             password="QpZyNprNbfLSB3DF613YiRb9dulneftu",
             host="dpg-d1mu0mre5dus7388ul60-a",
